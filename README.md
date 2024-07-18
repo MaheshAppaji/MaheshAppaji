@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)]
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A passionate Data Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Data Analysis" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshappaji&label=Profile%20views&color=0e75b6&style=flat" alt="maheshappaji" /> </p>
